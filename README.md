@@ -5,8 +5,6 @@
 This is a minimal Electron application with splashscreen.
 
 
-A basic Electron application needs just these files:
-
 
 ## To Use
 
